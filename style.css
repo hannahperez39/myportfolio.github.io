@@ -1,0 +1,16 @@
+/* Page content */
+body {
+    background: url("photos/spikes.png");
+    background-size:cover;
+  }
+
+  .thumbnail {
+    position: relative;
+    float: left;
+  }
+  .caption {
+      position: absolute;
+      top: 80%;
+      left: 0;
+      width: 100%;
+  }
