@@ -14,3 +14,13 @@ body {
       left: 0;
       width: 100%;
   }
+.vist {
+color: green;
+}
+
+.link {
+  color: blue;
+}
+.project {
+  color: blueviolet;
+}
